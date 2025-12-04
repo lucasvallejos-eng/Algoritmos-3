@@ -5,6 +5,5 @@ El objetivo es compilar los ejercicios, tareas y ejemplos de clase realizados du
 
 - Dependencias (Para Grafos)
 Los ejercicios que utilizan grafos requieren las librerías JGraphT. Estas ya están incluidas en la carpeta raíz:
-
-jgrapht-core-1.5.1.jar
-jgrapht-io-1.5.1.jar
+    - jgrapht-core-1.5.1.jar
+    - jgrapht-io-1.5.1.jar
