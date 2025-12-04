@@ -1,0 +1,19 @@
+Uso del TAD Lista:
+
+1. Crear una instancia de MiLista para trabajar con el TAD Lista.
+
+Ejemplo:
+Lista<Integer> miLista = new MiLista<>();
+
+2. Agregar elementos a la lista.
+
+Ejemplo:
+miLista.agregar(1);
+miLista.agregar(2);
+miLista.agregar(3);
+
+3. Realizar operaciones como contar elementos, extender la lista, obtener el índice de un elemento, etc.
+
+Ejemplos:
+System.out.println("Cantidad de elementos: " + miLista.contar());
+System.out.println("Lista original: " + miLista);
